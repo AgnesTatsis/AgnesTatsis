@@ -1,3 +1,2 @@
-Α.Μ.: inf2022
-
-Ονοματεπώνυμο: Τάτση Αγνή
+Α.Μ.: inf2022202 (Ionian Univeristy)<br>
+Name: Agnes Tatsis
